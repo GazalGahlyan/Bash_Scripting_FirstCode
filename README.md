@@ -19,3 +19,13 @@ c)  We can use it to present a set of values to use in the same part of a string
 d)  We can also use brace expansion to create a sequence of numbers or letters.
 
 e)  We can also add intervals to sequences with a third argument in our brace expansion. 
+
+
+3. Parameter Expansion
+
+a)  It allows us to retrieve and modify stored values. The symbol for this is ${...}.
+
+
+4. Airthmetic Expansion
+
+a)  
