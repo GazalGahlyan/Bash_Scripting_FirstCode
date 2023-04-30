@@ -2,8 +2,11 @@
 Expansions in  Bash
 
 1. Tilde Expansion 
+
 a)  The tilde expansion is used to represent a user’s home directory.
+
 b)  We can use tilde + plus  ~+ to represent the PWD and  tilde + dash ~- to represent the OLDPWD
+
 
 2. Brace Expansion
 
